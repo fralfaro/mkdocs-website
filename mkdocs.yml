@@ -1,0 +1,96 @@
+# Copyright (c) 2016-2022 Martin Donath <martin.donath@squidfunk.com>
+
+# Project information
+site_name: Management Analytics and Data Science
+site_url: https://github.com/fralfaro/mkdocs-website
+site_author: Francisco Alfaro
+site_description:
+
+# Repository
+repo_name: fralfaro/mkdocs-website
+repo_url: https://github.com/fralfaro/mkdocs-website
+edit_uri: ''
+
+# Markdown extensions
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - neoteroi.cards
+  - neoteroi.timeline
+  - neoteroi.projects
+
+
+
+extra_css:
+  - css/neoteroi-mkdocs.css
+
+# Theme
+theme:
+  name: material
+  language: en
+  logo: images/usm.png
+  favicon: images/usm.png
+  palette:
+  - media: '(prefers-color-scheme: light)'
+    scheme: default
+    primary: teal
+    accent: amber
+    toggle:
+      icon: material/lightbulb
+      name: Switch to dark mode
+  - media: '(prefers-color-scheme: dark)'
+    scheme: slate
+    primary: teal
+    accent: amber
+    toggle:
+      icon: material/lightbulb-outline
+      name: Switch to light mode
+  features:
+  - search.suggest
+  - search.highlight
+  - content.tabs.link
+  - navigation.indexes
+  - content.tooltips
+  - navigation.path
+  - content.code.annotate
+  - content.code.copy
+  - content.code.select
+  - navigation.tabs
+
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/fralfaro
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/faam/
+    - icon: fontawesome/solid/globe
+      link: https://fralfaro.github.io/portfolio/
+
+# Plugins
+plugins:
+  - search
+
+ #TOC
+nav:
+    - Home: index.md
+    - Servicios:
+      - services.md
+    - Portafolio:
+      - portfolio.md
+    - Nosotros:
+      - about.md
+    - Cronología:
+      - timeline.md
+    - Equipo:
+      - team.md
+    - Compañías:
+      - clients.md
+
+
+
+
+
+
