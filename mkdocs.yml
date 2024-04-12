@@ -86,6 +86,9 @@ nav:
       - timeline.md
     - Equipo:
       - team.md
+      - team/directorio.md
+      - team/investigador.md
+      - team/colaborador.md
     - Compañías:
       - clients.md
 

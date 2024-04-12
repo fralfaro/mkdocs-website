@@ -1,6 +1,5 @@
 ---
 hide:
-  - navigation
   - toc
 ---
 
@@ -8,12 +7,12 @@ hide:
 
 ## Directorio 
 
-::cards:: cols=4
+::cards:: cols=3
 
 - title: Director Fernando Díaz
-  content: Lidera nuestro equipo con una vasta experiencia en gestión y análisis de datos. Su visión estratégica impulsa nuestra misión de ofrecer soluciones innovadoras en el ámbito de la gestión y la analítica de datos.
+  content: Haz clic para conocer su biografía.
   image: images/team/fernando.png 
-  url: https://comercial.usm.cl/management-analytics-an-data-science/
+  url: directorio/
 
   
 ::/cards::
@@ -23,15 +22,15 @@ hide:
 ::cards:: cols=4
 
 - title: Dra. Jocelyn Tapia
-  content: Destacada en el campo de la ciencia de datos, con numerosas publicaciones y proyectos de investigación. Su experiencia en análisis estadístico y modelado predictivo enriquece nuestro equipo y contribuye a la excelencia en nuestras investigaciones.
+  content: Haz clic para conocer su biografía.
   image: images/team/jocelin.png
-  url: https://comercial.usm.cl/management-analytics-an-data-science/
+  url: investigador/
 
 
 - title: Dr. Marcelo Villena
-  content: Líder en el desarrollo de algoritmos de inteligencia artificial y aprendizaje automático. Su pasión por la innovación y su enfoque en la aplicación práctica de la ciencia de datos impulsan nuestro compromiso con la investigación de vanguardia.
+  content: Haz clic para conocer su biografía.
   image: images/team/marcelo.png
-  url: https://comercial.usm.cl/management-analytics-an-data-science/
+  url: investigador/
 
 
 ::/cards::
@@ -41,19 +40,59 @@ hide:
 ::cards:: cols=4
 
 - title: Francisco Alfaro
-  content: Comprometido con la formación de nuevas generaciones de analistas de datos. Su dedicación a la enseñanza y su experiencia en proyectos prácticos enriquecen nuestra capacidad para preparar a los futuros profesionales en el campo de la gestión y análisis de datos.
-  image: images/team/user.svg
-  url: https://comercial.usm.cl/management-analytics-an-data-science/
+  content: Haz clic para conocer su biografía.
+  image: images/team/francisco.jpg
+  url: colaborador/
 
 
 - title: Sebastián Azócar
-  content: Con una amplia trayectoria en la industria y la academia. Su experiencia práctica en proyectos de análisis de datos en diversas industrias aporta una perspectiva valiosa a nuestra labor educativa y de investigación.
-  image: images/team/user.svg
-  url: https://comercial.usm.cl/management-analytics-an-data-science/
+  content: Haz clic para conocer su biografía.
+  image: images/team/azocar.jpg
+  url: colaborador/
 
 - title: Benjamín Cataldo
-  content: Con un enfoque interdisciplinario en la gestión y análisis de datos. Su experiencia en la integración de datos y tecnologías emergentes fortalece nuestra capacidad para abordar los desafíos actuales en el campo de la analítica de datos.
-  image: images/team/user.svg
-  url: https://comercial.usm.cl/management-analytics-an-data-science/
+  content: Haz clic para conocer su biografía.
+  image: images/team/benja.jpg
+  url: colaborador/
+
+::/cards::
+
+::cards:: cols=4
+
+- title: Iván Canales
+  content: Haz clic para conocer su biografía.
+  image: images/team/ivan.jpg
+  url: colaborador/
+
+
+- title: Patricia Chandía
+  content: Haz clic para conocer su biografía.
+  image: images/team/patricia.jpg
+  url: colaborador/
+
+- title: Darinka Carvajal
+  content: Haz clic para conocer su biografía.
+  image: images/team/darinka.jpg
+  url: colaborador/
+
+::/cards::
+
+::cards:: cols=4
+
+- title: Juan Espinosa
+  content: Haz clic para conocer su biografía.
+  image: images/team/juan.jpg
+  url: colaborador/
+
+
+- title: Sebastián González
+  content: Haz clic para conocer su biografía.
+  image: images/team/sebastian.jpeg
+  url: colaborador/
+
+- title: Rodrigo Fernández
+  content: Haz clic para conocer su biografía.
+  image: images/team/rodrigo.jpg
+  url: colaborador/
 
 ::/cards::
